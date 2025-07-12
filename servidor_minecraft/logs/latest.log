@@ -88,3 +88,33 @@
 [12Jul2025 03:17:40.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Survival Mode]
 [12Jul2025 03:17:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Creative Mode]
 [12Jul2025 03:17:45.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Survival Mode]
+[12Jul2025 03:21:23.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Creative Mode]
+[12Jul2025 03:21:29.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Survival Mode]
+[12Jul2025 03:23:32.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otaku6063 moved too quickly! 3.5926756778735296,1.2579991035152815,9.455554501004826
+[12Jul2025 03:30:33.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Creative Mode]
+[12Jul2025 03:30:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Survival Mode]
+[12Jul2025 03:31:26.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otaku6063 was blown up by Creeper
+[12Jul2025 03:31:39.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Creative Mode]
+[12Jul2025 03:33:10.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otaku6063 moved too quickly! 3.3755959164674323,0.17081290814229533,9.50326011511612
+[12Jul2025 03:33:12.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Survival Mode]
+[12Jul2025 03:33:22.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otaku6063 moved too quickly! 0.7619686616302488,-0.7531999805212024,-10.071199613907197
+[12Jul2025 03:34:09.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otaku6063 moved too quickly! -8.106230561928925,-2.0841468730539177,-5.596242074734931
+[12Jul2025 03:37:17.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otaku6063 lost connection: Disconnected
+[12Jul2025 03:37:17.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otaku6063 left the game
+[12Jul2025 03:37:35.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Jul2025 03:37:35.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: !HELP<--[HERE]
+[12Jul2025 03:37:40.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Jul2025 03:37:40.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: !help<--[HERE]
+[12Jul2025 03:38:20.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Jul2025 03:38:20.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Jul2025 03:38:20.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Jul2025 03:38:20.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Jul2025 03:38:20.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Jul2025 03:38:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Jul2025 03:38:20.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_doppelganger:subworld
+[12Jul2025 03:38:20.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Jul2025 03:38:20.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jul2025 03:38:20.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jul2025 03:38:20.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (subworld): All chunks are saved
+[12Jul2025 03:38:20.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Jul2025 03:38:20.789] [Server thread/INFO] [net.petemc.mutantszombies.MutantsZombies/]: Loading mutantszombies server config
