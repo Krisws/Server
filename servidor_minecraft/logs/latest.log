@@ -91,3 +91,14 @@ Things may not work well.
 [12Jul2025 04:17:06.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set the time to 6000]
 [12Jul2025 04:17:52.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Otaku6063> asd
 [12Jul2025 04:18:30.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set the weather to rain]
+[12Jul2025 04:19:39.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set the weather to rain]
+[12Jul2025 04:20:00.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set the weather to rain]
+[12Jul2025 04:20:07.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set the weather to rain & thunder]
+[12Jul2025 04:20:39.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set the weather to rain]
+[12Jul2025 04:24:33.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otaku6063 was blown up by Creeper
+[12Jul2025 04:24:34.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otaku6063 moved too quickly! 4.370366716208196,0.0,9.170977021798365
+[12Jul2025 04:24:43.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Creative Mode]
+[12Jul2025 04:26:52.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Survival Mode]
+[12Jul2025 04:27:35.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Creative Mode]
+[12Jul2025 04:28:22.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otaku6063 lost connection: Disconnected
+[12Jul2025 04:28:22.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otaku6063 left the game
