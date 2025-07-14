@@ -89,3 +89,61 @@
 [14Jul2025 01:26:32.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otaku6063[/172.22.42.121:53606] logged in with entity id 97 at (136.30000001192093, 63.0, 208.0244100390498)
 [14Jul2025 01:26:33.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otaku6063 joined the game
 [14Jul2025 01:27:57.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Otaku6063: Set own game mode to Survival Mode]
+[14Jul2025 01:40:53.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Otaku6063 lost connection: Disconnected
+[14Jul2025 01:40:53.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otaku6063 left the game
+[14Jul2025 01:41:06.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Otaku6063[/172.22.42.121:53938] logged in with entity id 2543 at (233.2890610934576, 62.073264324665075, 244.6944885144344)
+[14Jul2025 01:41:06.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Otaku6063 joined the game
+[14Jul2025 01:41:06.321] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Boat['Boat'/2544, l='ServerLevel[world]', x=233.29, y=62.52, z=244.69] as it would cause deadlock
+[14Jul2025 01:42:57.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved wrongly! 0.544542367813051
+[14Jul2025 01:42:57.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved wrongly! 0.8647230118776008
+[14Jul2025 01:42:57.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved wrongly! 1.1841563899579626
+[14Jul2025 01:42:57.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved wrongly! 1.5028420598396792
+[14Jul2025 01:42:57.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved wrongly! 1.8207899296704682
+[14Jul2025 01:42:57.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved wrongly! 2.1380184920612635
+[14Jul2025 01:43:19.097] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [the_doppelganger:the_doppelganger,carryonextend:main,carryon:carryonpackets,tacz:handshake,tacz:network,geckolib:main] rejected vanilla connections
+[14Jul2025 01:43:19.098] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/172.22.232.174:56850] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[14Jul2025 01:44:26.271] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [the_doppelganger:the_doppelganger,carryonextend:main,carryon:carryonpackets,tacz:handshake,tacz:network,geckolib:main] rejected vanilla connections
+[14Jul2025 01:44:26.271] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/172.22.232.174:56912] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[14Jul2025 01:47:50.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.171522855196827,0.0,-7.034916349683982
+[14Jul2025 01:47:50.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.296977652880855,0.0,-7.167745897840717
+[14Jul2025 01:47:50.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.409886967805392,0.0,-7.287292488014884
+[14Jul2025 01:47:50.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.5115053485455405,0.0,-7.394884416321418
+[14Jul2025 01:47:50.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.602961888788855,0.0,-7.491717149232102
+[14Jul2025 01:47:50.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-7.578866606543045
+[14Jul2025 01:47:50.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-7.65730111604509
+[14Jul2025 01:47:50.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-7.727892172726911
+[14Jul2025 01:47:50.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-7.791424122057521
+[14Jul2025 01:47:50.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-7.8486028749403545
+[14Jul2025 01:47:50.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-7.900063751171643
+[14Jul2025 01:47:50.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-7.946378538552892
+[14Jul2025 01:47:50.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-7.988061846091796
+[14Jul2025 01:47:50.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.025576821882993
+[14Jul2025 01:47:50.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.059340299200642
+[14Jul2025 01:47:50.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.08972742798153
+[14Jul2025 01:47:50.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.117075843159853
+[14Jul2025 01:47:50.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.141689416168305
+[14Jul2025 01:47:50.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.163841631289074
+[14Jul2025 01:47:50.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.183778624369637
+[14Jul2025 01:47:50.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.201721917666788
+[14Jul2025 01:47:50.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.217870881206437
+[14Jul2025 01:47:50.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.232404948007087
+[14Jul2025 01:47:50.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.245485607781148
+[14Jul2025 01:47:50.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.257258201265955
+[14Jul2025 01:47:50.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.267853535121588
+[14Jul2025 01:47:50.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.277389335339052
+[14Jul2025 01:47:50.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.285971555307412
+[14Jul2025 01:47:50.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.293695553074315
+[14Jul2025 01:47:50.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.300647150880394
+[14Jul2025 01:47:50.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.306903588740113
+[14Jul2025 01:47:50.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.312534382664694
+[14Jul2025 01:47:50.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.317602097062576
+[14Jul2025 01:47:50.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.322163039899834
+[14Jul2025 01:47:50.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.326267888344631
+[14Jul2025 01:47:50.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.329962251847093
+[14Jul2025 01:47:50.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.333287178911206
+[14Jul2025 01:47:50.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.336279613189646
+[14Jul2025 01:47:50.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.338972803968886
+[14Jul2025 01:47:50.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.341396675606006
+[14Jul2025 01:47:50.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.343578160021622
+[14Jul2025 01:47:50.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.34554149594365
+[14Jul2025 01:47:50.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.347308498226681
