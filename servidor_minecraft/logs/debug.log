@@ -2021,3 +2021,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jul2025 01:47:50.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.343578160021622
 [14Jul2025 01:47:50.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.34554149594365
 [14Jul2025 01:47:50.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Otaku6063) moved too quickly! 7.606954732680947,0.0,-8.347308498226681
+[14Jul2025 01:50:34.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 01:50:34.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 01:55:34.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 01:55:34.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 01:55:43.564] [Worker-Main-16/DEBUG] [ModernFix/]: Structure terralith:village/fortified/start_castle is being run through DFU (hash 6f4590aebb6753de05226c0d12fb8db277493b3c90da83f6e18fd394b95a53d5), this will cause launch time delays
+[14Jul2025 01:55:43.571] [Worker-Main-16/INFO] [ModernFix/]: Instantiating Mojang DFU
